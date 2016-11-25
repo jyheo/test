@@ -27,3 +27,4 @@ branch 실습
 2. 해당 commit ID를 copy해서 issue 등록
 
 #test
+#test2
