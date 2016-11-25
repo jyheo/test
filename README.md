@@ -1,9 +1,12 @@
 # test
 git/github 실습
-
+lotac
 fork/pull request 실습
 ----------------------
-
+sdfasdfasdf
+asdfsadfdsafasd
+fasdfsdfadsf
+sadfsadbsadvs
 1. 이 저장소를 fork한 후 clone
 2. fork_pull_request.c를 수정하여 구구단이 제대로 출력하도록 수정하고 commit
 3. push한 후에 pull request 생성
