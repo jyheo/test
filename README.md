@@ -1,17 +1,20 @@
 # test
 git/github 실습
-
+lotac
 fork/pull request 실습
 ----------------------
 
+asdfsadfdsafasd
+fasdfsdfadsf
+sadfsadbsadvs
 1. 이 저장소를 fork한 후 clone
-2. fork_pull_request.c를 수정하여 구구단이 제대로 출력하도록 수정하고 commit
-3. push한 후에 pull request 생성
+. fork_pull_request.c를 수정하여 구구단이 제대로 출력하도록 수정하고 commit
+. push한 후에 pull request 생성
 
-위 실습을 완료하면 collaborator에 id를 추가해줄 것임
+실습을 완료하면 collaborator에 id를 추가해줄 것임
 
-branch 실습
------------
+ranch 실습
+---------
 
 1. collaborator가 되면 직접 이 저장소의 내용에 push가 가능해짐.
 2. 이 저장소를 바로 clone (fork하지 말고)
