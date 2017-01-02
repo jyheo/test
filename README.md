@@ -10,6 +10,15 @@ fork/pull request 실습
 
 위 실습을 완료하면 collaborator에 id를 추가해줄 것임
 
+collaborators 실습
+------------------
+
+1. collaborator가 되면 직접 이 저장소의 내용에 push가 가능해짐.
+2. 이 저장소를 바로 clone (fork하지 말고)
+3. name/ 디렉터리 밑에 자신의 id나 이름으로 파일 생성(내용은 마음대로)
+4. commit하고 push
+5. 적당한 시간 후에 다른 사람이 push한 내용을 로컬 작업 디렉터리로 fetch/merge
+
 branch 실습
 -----------
 
