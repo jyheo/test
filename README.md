@@ -26,5 +26,4 @@ branch 실습
 1. 다른 사람이 commit한 내용에 comment를 달고
 2. 해당 commit ID를 copy해서 issue 등록
 
-#test
-#test2
+
