@@ -3,6 +3,7 @@
 int main()
 {
   int i;
+  int j;
   for (i = 0; i < 5; i++) {
     for (j = 0; j < 9; j++) {
       printf("%dx%d=%d ", i, j, i * j);
@@ -13,3 +14,6 @@ int main()
 }
 
 // comment
+
+정수변수 j를 추가함
+
