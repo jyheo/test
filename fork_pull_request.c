@@ -2,13 +2,13 @@
 
 int main()
 {
-  int i;
+  int i, j;
   for (i = 0; i < 5; i++) {
     for (j = 0; j < 9; j++) {
       printf("%dx%d=%d ", i, j, i * j);
     }
   }
-  
+  printf("Hi");
   return 0;
 }
 
