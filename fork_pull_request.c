@@ -8,7 +8,7 @@ int main()
       printf("%dx%d=%d ", i, j, i * j);
     }
   }
-  
+  printf("");
   return 0;
 }
 
