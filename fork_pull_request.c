@@ -3,9 +3,9 @@
 int main()
 {
   int i,j;
-  for (i = 0; i < 5; i++) {
-    for (j = 0; j < 9; j++) {
-      printf("%dx%d=%d ", i, j, i * j);
+  for (i = 1; i < 10; i++) {
+    for (j = 1; j < 10; j++) {
+      printf("%dx%d=%d \n", i, j, i * j);
     }
   }
   
@@ -13,3 +13,7 @@ int main()
 }
 
 // comment
+// for문에서 i=0 을 i=1로 변경
+// for문에서 i<5를 i<10으로 변경
+// 두번째 for문에서 j=0을 j=1로 변경
+// 두번째 for문에서 j<9를 j<10으로 변경
