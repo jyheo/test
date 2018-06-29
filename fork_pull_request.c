@@ -9,7 +9,7 @@ int main()
     }
 	printf("\n");
   }
-  
+	printf("GUGUDAN ENDED.");  
   return 0;
 }
 
