@@ -3,13 +3,14 @@
 int main()
 {
   int i,j;
+	printf("============================ GUGUDAN STARTED ==========================\n");
   for (i = 1; i <= 9; i++) {
     for (j = 1; j <= 9; j++) {
       printf("%dx%d=%2d ", j, i, i * j);
     }
 	printf("\n");
   }
-	printf("GUGUDAN ENDED.");  
+	printf("============================ GUGUDAN ENDED. ==========================\n");  
   return 0;
 }
 
