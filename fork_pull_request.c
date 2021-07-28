@@ -3,7 +3,7 @@
 int main()
 {
   int i,j;
-  for (i = 2; i < 10; i++) {
+  for (i = 1; i < 10; i++) {
     for (j = 1; j < 10; j++) {
       printf("%dx%d=%d ", i, j, i * j);
     }
@@ -12,4 +12,4 @@ int main()
   return 0;
 }
 
-// comment
+// i의 초기값 수정
