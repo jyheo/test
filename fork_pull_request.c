@@ -8,6 +8,7 @@ int main()
       printf("%dx%d=%d ", i, j, i * j);
     }
   }
+  printf("I just lost $500 doing stock trading :(");
   
   return 0;
 }
